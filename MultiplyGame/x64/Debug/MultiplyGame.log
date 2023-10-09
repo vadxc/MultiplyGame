@@ -1,0 +1,3 @@
+﻿  MultiplyGame.cpp
+C:\Users\vaadx\source\repos\MultiplyGame\MultiplyGame\MultiplyGame.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MultiplyGame.vcxproj -> C:\Users\vaadx\source\repos\MultiplyGame\x64\Debug\MultiplyGame.exe
